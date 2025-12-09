@@ -127,6 +127,14 @@
             <Form>Form2</Form>
             <FormType>dfm</FormType>
         </DCCReference>
+        <DCCReference Include="Maze.Core.pas"/>
+        <DCCReference Include="Maze.Generator.RecursiveBacktracking.pas"/>
+        <DCCReference Include="Maze.Generator.Prim.pas"/>
+        <DCCReference Include="MazeSettingsDialog.pas">
+            <Form>frmMazeSettings</Form>
+            <FormType>dfm</FormType>
+        </DCCReference>
+        <DCCReference Include="Maze.Settings.pas"/>
         <BuildConfiguration Include="Base">
             <Key>Base</Key>
         </BuildConfiguration>
