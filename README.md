@@ -8,7 +8,7 @@ CodeBot's prompt (typos included) was:
 
 This code was generated in 'Thorough' mode ((higher quality.) You can expect Thorough mode to be better architected, using more interfaces and separated dependencies, etc; you can expect Vibe It mode to be faster.
 
-The app worked first time, and renders nicer looking mazes than the Vibe It version. It also is (in my view) better architected, using interfaces instead of base classes, better separation over separate units, and with better documentation.
+The app worked first time, and renders nicer looking mazes than the [Vibe It version](https://github.com/vintagedave/aidemo-vibeit-dec2025). It also is (in my view) better architected, using interfaces instead of base classes, better separation over separate units, and with better documentation.
 
 See more about RemObjects CodeBot for Delphi here! https://www.remobjects.com/codebot/delphi.aspx
 
